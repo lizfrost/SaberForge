@@ -1,0 +1,10 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "author": "FrostDragon",
+  "description": "Saber customiser plugin for Beat Saber",
+  "gameVersion": "1.4.2",
+  "id": null,
+  "name": "SaberForge",
+  "version": "0.2.0",
+  "features": []
+}

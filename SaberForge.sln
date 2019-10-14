@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaberForge", "SaberForge\SaberForge.csproj", "{8AD98D83-06EF-4BD8-B3C1-312ED6CA945D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD98D83-06EF-4BD8-B3C1-312ED6CA945D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD98D83-06EF-4BD8-B3C1-312ED6CA945D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD98D83-06EF-4BD8-B3C1-312ED6CA945D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD98D83-06EF-4BD8-B3C1-312ED6CA945D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C10D5357-5009-4415-A41A-8FCEF6300BD0}
+	EndGlobalSection
+EndGlobal
