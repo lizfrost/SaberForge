@@ -19,7 +19,7 @@ Unzip the zip, and place the contents in your Beat Saber directory :-
 
 Plugins/SaberForge.dll  
 SaberForgeAssets/CoreParts.partbundle  
-SaberForgeAssets/UserTextures/ 
+SaberForgeAssets/UserTextures/   
 CustomSabers/SaberForge_PH.saber  
 
 Saber Forge also requires the following mods to be installed :-  
